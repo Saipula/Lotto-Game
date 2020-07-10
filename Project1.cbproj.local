@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\GM\Курсовая\Лото кек\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\GM\Курсовая\Лото кек\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\GM\Курсовая\Лото кек\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\GM\Курсовая\Лото кек\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\GM\Курсовая\Лото кек\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.028,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,=C:\Users\Персик\Documents\Курсачи\Лото\classes.h</Transaction>
+  </Transactions>
+</BorlandProject>
